@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Apriori",
+            "request": "launch",
+            "mainClass": "Apriori",
+            "projectName": "Project 1_905e9829"
+        }
+    ]
+}
